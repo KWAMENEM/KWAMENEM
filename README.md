@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KWAMENEM
 - 👀 I’m interested in web development and software engineering 
-- 🌱 I’m currently learning python and html.
+- 🌱 I’m currently learning python and html with css.
 - 💞️ I’m looking to collaborate on large projects in my field of study.
 - 📫 How to reach me? Not a problem, lets chat on Whatsapp [+233547756768]. or call me on 0509146746.
 - 😄 Pronouns: Nana ✨
